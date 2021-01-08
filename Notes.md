@@ -69,3 +69,15 @@ app.get('/', (req, res) => {
     })
 })
 ```
+
+## CRUD requests
+  - *POST*, create date
+  - *GET*, read data
+  - *PUT*, update data
+  - *DELETE*, delete data
+
+
+## React
+  - `npx create-react-app <APP_NAME>`
+  - `cd <APP_NAME>`
+  - `npm start`

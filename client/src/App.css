@@ -1,0 +1,22 @@
+.App {
+  padding: 30px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.blog-card {
+  display: flex;
+}
+
+.blog-img {
+  height: 200px;
+  padding-right: 12px;
+}
